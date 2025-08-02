@@ -1,6 +1,5 @@
 # Spiking Neural Network for Robot Manipulation
 
-![SNN Robot Manipulation Banner](https://source.unsplash.com/800x200/?robotics,neural-network)  
 *Implementation of a Spiking Neural Network for robot manipulation tasks using Behavior Cloning, based on the ManiSkill2 Challenges.*
 
 This repository contains the planned implementation of the spiking neural network (SNN) architecture described in the paper *"Policy Learning with Spiking Neural Network for Robot Manipulation Tasks"* (1st International Conference on Hybrid Societies 2023). The project focuses on training a mobile robot arm for tasks like `OpenCabinetDrawer` using Behavior Cloning (BC) in the ManiSkill2 environment, comparing SNNs with traditional artificial neural networks (ANNs). As a Senior AI & Machine Learning Engineer, this work showcases my expertise in deep reinforcement learning, neuromorphic computing, and robotics.
